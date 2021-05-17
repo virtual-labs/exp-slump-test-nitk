@@ -1,0 +1,44 @@
+[{
+	"question": "The portion of concrete slips off and collapse sideways is ",
+	"answers": {
+		"a": "Shear Slump",
+		"b": "Collapse Slump",
+		"c": "True Slump",
+		"d": "None"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Workability of concrete depends upon  ",
+	"answers": {
+		"a": "Water Content",
+		"b": "Mix Proportion",
+		"c": "Aggregate Size",
+		"d": "All the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Slump test is not suitable for very dry or very wet concrete mix.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Slump value is measured as the difference in height between the ",
+	"answers": {
+		"a": "Height of the mould and the lowest value of the subsidence",
+		"b": "Height of the mould and the highest value of the subsidence",
+		"c": "Height of the mould and the average value of the subsidence",
+		"d": "All the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Slump test is suitable for slumps of ",
+	"answers": {
+		"a": "Low to high workability",
+		"b": "Medium to high workability",
+		"c": "Low to medium workability",
+		"d": "High workability"
+	},
+	"correctAnswer": "b"
+}]
