@@ -1,0 +1,44 @@
+[{
+	"question": " Slump cone test is not suitable for ",
+	"answers": {
+		"a": "Very dry mix",
+		"b": "Collapsed slump",
+		"c": "Aggregate size > 38mm",
+		"d": "All the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Which of the following is correct?<br>Collapse slump indicates<br>1. High water cement ratio<br>2. Low workability mix<br>3.Harsh and Lean mix<br>4. Slump test is unsuitable",
+	"answers": {
+		"a": "1,2 and 3",
+		"b": "1,3 and 4",
+		"c": "2,3 and 4",
+		"d": "1,2,3 and 4"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Slump test is the more precise test to obtain workability of concrete.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Zero slump concrete indicates ",
+	"answers": {
+		"a": "Lean concrete mix",
+		"b": "Very harsh mix",
+		"c": "High water cement ratio and wet mix",
+		"d": "Low water cement ratio and Dry mix"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "IS Standard for slump test is ",
+	"answers": {
+		"a": "IS 1199 :1959",
+		"b": "IS 1343:1980",
+		"c": "IS 5515:1983",
+		"d": "IS 456:2000"
+	},
+	"correctAnswer": "a"
+}]
